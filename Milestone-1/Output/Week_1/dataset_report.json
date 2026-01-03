@@ -1,0 +1,99 @@
+{
+    "project_info": {
+        "name": "TraceFinder - Forensic Scanner Identification",
+        "date": "2025-12-31 00:53:40",
+        "location": "C:\\Users\\Dell\\OneDrive\\Desktop\\TraceFinder_Project"
+    },
+    "dataset_summary": {
+        "total_images_found": 1042,
+        "valid_images": 1040,
+        "invalid_images": 2,
+        "validation_rate": "99.8%"
+    },
+    "category_distribution": {
+        "official_docs": {
+            "count": 452,
+            "percentage": "43.4%"
+        },
+        "wikipedia_docs": {
+            "count": 376,
+            "percentage": "36.1%"
+        },
+        "tampered": {
+            "count": 168,
+            "percentage": "16.1%"
+        },
+        "flatfield": {
+            "count": 46,
+            "percentage": "4.4%"
+        }
+    },
+    "scanner_distribution": {
+        "Canon9000-1": {
+            "count": 172,
+            "percentage": "19.7%"
+        },
+        "Canon220": {
+            "count": 136,
+            "percentage": "15.6%"
+        },
+        "EpsonV370-2": {
+            "count": 126,
+            "percentage": "14.4%"
+        },
+        "EpsonV39-1": {
+            "count": 104,
+            "percentage": "11.9%"
+        },
+        "EpsonV370-1": {
+            "count": 98,
+            "percentage": "11.2%"
+        },
+        "EpsonV550": {
+            "count": 70,
+            "percentage": "8.0%"
+        },
+        "HP": {
+            "count": 62,
+            "percentage": "7.1%"
+        },
+        "Canon9000-2": {
+            "count": 48,
+            "percentage": "5.5%"
+        },
+        "EpsonV39-2": {
+            "count": 28,
+            "percentage": "3.2%"
+        },
+        "Canon120-1": {
+            "count": 18,
+            "percentage": "2.1%"
+        },
+        "Canon120-2": {
+            "count": 12,
+            "percentage": "1.4%"
+        }
+    },
+    "image_statistics": {
+        "avg_width": 1723,
+        "avg_height": 2435,
+        "min_width": 1236,
+        "max_width": 2481,
+        "min_height": 1727,
+        "max_height": 3508,
+        "avg_megapixels": 4.71,
+        "common_resolution": "1240 x 1754",
+        "color_modes": [
+            "RGB"
+        ]
+    },
+    "file_statistics": {
+        "avg_file_size_mb": 13.61,
+        "total_size_gb": 13.82,
+        "largest_file_mb": 34.29,
+        "smallest_file_mb": 6.13
+    },
+    "recommendations": [
+        "Fix or remove 2 invalid/corrupted images"
+    ]
+}
